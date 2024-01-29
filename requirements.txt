@@ -1,2 +1,2 @@
-aiohttp==3.7.4
+aiohttp==3.9.2
 google-cloud-build==1.1.0
